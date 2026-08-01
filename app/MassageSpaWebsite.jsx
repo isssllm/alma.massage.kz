@@ -466,7 +466,7 @@ const REVIEWS = {
 // никаких файлов в public/ класть не нужно, картинки уже "внутри".
 
 // ⚠️ Замените на реальный номер WhatsApp в формате без "+" и пробелов, например "77001234567"
-const WHATSAPP_NUMBER = '87082780761';
+const WHATSAPP_NUMBER = '77082780761';
 
 /* ============================================================
    PALETTE / TOKENS (see <style> block for full definitions)
